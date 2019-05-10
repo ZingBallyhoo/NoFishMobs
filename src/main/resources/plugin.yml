@@ -1,0 +1,5 @@
+main: net.zingballyhoo.NoFishMobs.FishPlugin
+name: NoFishMobs
+version: 1.0
+author: zingballyhoo
+description: Disables spawning of 1.13 fish mobs
